@@ -1,2 +1,2 @@
 # machine_learning_note
-1. [绘制3D图像]
+1. [matplotlib绘制3D图像]()
